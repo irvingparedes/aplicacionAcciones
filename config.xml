@@ -10,7 +10,7 @@
 		<name>aplicaciones</name>
 		
 		<description>
-		    aplicacion de varias aplicaciones
+		   varias aplicaciones
 		</description>
 		
 		<prefence name="phonegap-version" value="3.1.0" />
