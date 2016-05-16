@@ -7,10 +7,10 @@
 		
 		<!-- versionCode is optional and Android only -->
 		
-		<name>datos del dispositivo</name>
+		<name>aplicaciones</name>
 		
 		<description>
-		    aplicacion que muestra datos del dispositivo
+		    aplicacion de varias aplicaciones
 		</description>
 		
 		<prefence name="phonegap-version" value="3.1.0" />
